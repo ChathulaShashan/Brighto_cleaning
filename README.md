@@ -33,5 +33,4 @@ Password = employee123
 
 
 
-
-          ![LoginUI](https://github.com/ChathulaShashan/Brighto_cleaning/assets/97799771/2b78d2bd-8e1b-49bf-ac58-89b776525c3b)
+   ![LoginUI](https://github.com/ChathulaShashan/Brighto_cleaning/assets/97799771/2b78d2bd-8e1b-49bf-ac58-89b776525c3b)
