@@ -3,12 +3,12 @@
 
 If you are Admin select Admin role and use below login details,
 
-Username = admin
+*Username = admin
 Password = admin123
 
 If you are Employer select Employee role and use below login details,
 
-Username = employee
+*Username = employee
 Password = employee123
 
 
