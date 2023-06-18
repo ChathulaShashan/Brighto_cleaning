@@ -2,6 +2,7 @@
 #Rnning application video link = https://drive.google.com/drive/folders/15MH0On3XgedUagGBjxOxy_EsZKbsPq_y?usp=drive_link
 
 
+#Login details
 If you are Admin select Admin role and use below login details,
 
 Username = admin
@@ -11,7 +12,27 @@ If you are Employer select Employee role and use below login details,
 
 Username = employee
 Password = employee123
-                                       
+                         
+
+
+
+#INTRODUCTION ABOUT THE ORGANIZATION
+
+Brighto is a cleaning service located in Colombo, Sri Lanka. They offer a variety of cleaning services, such as 
+post-construction cleaning, commercial cleaning, and residential cleaning. They are committed to providing 
+customers with the highest quality cleaning services at an affordable price.
+
+
+Their daily business process begins with a consultation with their customer. They discuss their customer’s 
+cleaning needs and develop a customized cleaning plan. Once the plan is done, they schedule a cleaning 
+appointment and send a team of experienced cleaners to the customer’s home or office. Their cleaners use 
+only the highest quality cleaning products and equipment, and they bring that equipment with them to the 
+workplace.
+
+
+They are confident that customers will be satisfied with their cleaning services. They offer a satisfaction 
+guarantee, and they are always available to answer customers questions or concerns.
+              
                                                   #LOADING SPLASH
 ![LoadingUI2](https://github.com/ChathulaShashan/Brighto_cleaning/assets/97799771/da67ebc9-dbe5-4575-9833-ddaedb1170d0)
 
