@@ -13,7 +13,7 @@ Username = employee
 Password = employee123
 
 
-                                                      #LOADING SPLASH
+                                                    #LOADING SPLASH
 
 
 ![LoadingUI2](https://github.com/ChathulaShashan/Brighto_cleaning/assets/97799771/da67ebc9-dbe5-4575-9833-ddaedb1170d0)
@@ -21,6 +21,10 @@ Password = employee123
 
 
 #LOGIN PAGE
+
+
+
+
 
 
 
