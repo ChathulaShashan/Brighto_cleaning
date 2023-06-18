@@ -1,14 +1,15 @@
 # Brighto_cleaning
 #Rnning application video link = https://drive.google.com/drive/folders/15MH0On3XgedUagGBjxOxy_EsZKbsPq_y?usp=drive_link
 
+
 If you are Admin select Admin role and use below login details,
 
-*Username = admin
+Username = admin
 Password = admin123
 
 If you are Employer select Employee role and use below login details,
 
-*Username = employee
+Username = employee
 Password = employee123
 
 
