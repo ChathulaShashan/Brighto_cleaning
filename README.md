@@ -3,6 +3,7 @@
 
 
 #Login details
+
 If you are Admin select Admin role and use below login details,
 
 Username = admin
@@ -15,7 +16,7 @@ Password = employee123
                          
 
 
-
+/br
 #INTRODUCTION ABOUT THE ORGANIZATION
 
 Brighto is a cleaning service located in Colombo, Sri Lanka. They offer a variety of cleaning services, such as 
