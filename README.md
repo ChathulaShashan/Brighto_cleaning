@@ -2,7 +2,7 @@
 #Rnning application video link = https://drive.google.com/drive/folders/15MH0On3XgedUagGBjxOxy_EsZKbsPq_y?usp=drive_link
 
 
-----------------------Login details-------------------
+##----------------------Login details-------------------
 
 If you are Admin select Admin role and use below login details,
 
@@ -13,18 +13,7 @@ If you are Employer select Employee role and use below login details,
 
 Username = employee
 Password = employee123
-                         
-
-
-
-
-
-
-
-
-
-
-
+                         			
 ------------------INTRODUCTION ABOUT THE BRIGHTO---------------------
 
 Brighto is a cleaning service located in Colombo, Sri Lanka. They offer a variety of cleaning services, such as 
