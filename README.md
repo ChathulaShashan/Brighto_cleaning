@@ -7,11 +7,15 @@
 If you are Admin select Admin role and use below login details,
 
 Username = admin
+
+
 Password = admin123
 
 If you are Employer select Employee role and use below login details,
 
 Username = employee
+
+
 Password = employee123
                          			
 ## INTRODUCTION ABOUT THE BRIGHTO
