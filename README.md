@@ -14,7 +14,7 @@ If you are Employer select Employee role and use below login details,
 Username = employee
 Password = employee123
                          			
-------------------INTRODUCTION ABOUT THE BRIGHTO---------------------
+## INTRODUCTION ABOUT THE BRIGHTO
 
 Brighto is a cleaning service located in Colombo, Sri Lanka. They offer a variety of cleaning services, such as 
 post-construction cleaning, commercial cleaning, and residential cleaning. They are committed to providing 
